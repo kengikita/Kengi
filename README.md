@@ -11,7 +11,6 @@
 **Experience In:**
 - UE4 and UE5
 - Unity
-- Godot
 - C++, C, C#
 - Javascript
 - Electron
