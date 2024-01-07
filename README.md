@@ -2,7 +2,7 @@
 
 <h2>I'm a passionate Game Developer and Gamer. </h2>
 
-- Current status: **Create Side Projects, Looking for Work**
+- Current status: **Building Side Projects, Looking for Work**
 
 - How to reach me: <a>kengikita@gmail.com</a>
 
