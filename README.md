@@ -12,6 +12,7 @@
 - UE4 and UE5
 - .NET Framework 4.5.2
 - .NET Core
+- AngularCLI
 - Unity
 - C++, C, C#
 - Godot
