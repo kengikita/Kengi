@@ -10,7 +10,10 @@
 
 **Experience In:**
 - UE4 and UE5
+- .NET Framework 4.5.2
+- .NET Core
 - Unity
 - C++, C, C#
+- Godot
 - Javascript
 - Electron
